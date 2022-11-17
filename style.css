@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.left-card{
+    width: 40%;
+    color: #f4f4f4;
+}
+
+.image img{
+    width: 100%;
+}
+
+.title{
+    padding-top: 2rem ;
+    padding-left: 4.5rem;
+}
+
+.text, .text1{
+    text-align: center;
+  
+}
+
+hr{
+    padding: 1px;
+}
+
+.text{
+    padding-top: 1rem;
+    padding-bottom: 2.5rem;
+}
+
+.yellowdark{
+    display: flex;
+    width: 100%;
+    height: 30px; 
+}
+
+.yellowbg{
+    width: 20%;
+}
+
+.phone {
+    width: 70%;
+   padding-left: 2.5rem;
+}
+
+.darkyellow p{
+    padding-left: 7.5rem;
+}
+
+.lastnthchild{
+    padding-bottom: 1.5rem;
+}
+
+            /* Right side */
+
+
+ .wrapper{
+    display: flex;
+}
+
+.right-card{
+    width: 60%;
+}
+
+.textbg{
+    margin-top: 8.5rem;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+}
+
+.textbg h3{
+    padding-right: 3rem;
+}
+
+.karen{
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.aboutMe{
+    padding: 3rem;
+}
+
+.work-experience{
+    padding: 1.5rem;
+}
+
+.work-templates{
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   grid-gap: 1.5rem;
+   margin: 3rem;
+}
+
+.space{
+    width: 80%;
+    height: 1rem;
+    border-radius: 15px;
+    margin-left: 1rem;
+}
+
+.space1 p{
+    display: none;
+}
+
+.space1{
+    border-radius: 15px;
+}
+
+.space1{
+    width: 30%;
+    height: 1rem;
+}
+
+.main-skills{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1.5rem;
+}
+
+.softwareText{
+   padding-left:4rem ;
+}
+
+
+
+
+
+
+
